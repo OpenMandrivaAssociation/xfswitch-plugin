@@ -6,7 +6,8 @@ License:	GPLv2+
 Group:		Graphical desktop/Xfce
 Url:		http://goodies.xfce.org/projects/panel-plugins/xfswitch-plugin/
 Source0:	http://goodies.xfce.org/releases/xfswitch-plugin/%{name}-%{version}.tar.bz2
-BuildRequires:	libxfce4-panel-devel >= 4.5.99.1
+BuildRequires:	libxfce4-panel-devel >= 4.7.0
+BuildRequires:	libxfcegui4-devel
 Requires:	gdm
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
