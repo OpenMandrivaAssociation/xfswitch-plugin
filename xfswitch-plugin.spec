@@ -1,7 +1,7 @@
 Summary:	User switching plugin for Xfce desktop environment
 Name:		xfswitch-plugin
 Version:	0.0.1
-Release:	%mkrel 7
+Release:	%mkrel 8
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 Url:		http://goodies.xfce.org/projects/panel-plugins/xfswitch-plugin/
